@@ -1,4 +1,4 @@
-public class Multiplication_Table 
+public class Multiply
 {
     public static void main(String[] args) 
     {
